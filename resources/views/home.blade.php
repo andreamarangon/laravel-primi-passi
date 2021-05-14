@@ -67,7 +67,7 @@
               <a href="/contact">Contact</a>
           </div>
           <div class="title m-b-md">
-              HELLO WORLD
+              HELLO WORLD ciao
           </div>
       </div>
   </div>
